@@ -2,9 +2,9 @@
 #忽略gitignore文件
 .gitignore
 .xml
-
 #显示指定忽略的目录
 /bower_components
 /node_modules
 /.tpm
 /.idea
+
