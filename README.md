@@ -16,5 +16,5 @@
     jQuery.extend(A, B); 
     结果:
 	A 是 { one: true, two: "bar", three: "foo" }
-    B 是 { one: true, two: "bar" }不变
+    B 是 { one: true, two: "bar" }不变  
     
